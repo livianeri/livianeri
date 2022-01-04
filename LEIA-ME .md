@@ -13,8 +13,8 @@
 
   <li>😄 Eu gosto muito de aprender;</li>
   <li>📚 Atualmente estudando  Javascript;</li>
-  <li>🌍 E eu também gosto de ler e viajar.</li>
-  <li>👀Tenho interesses: HTML, CSS, React.
+  <li>👀Tenho interesses: HTML, CSS, React. </li>
+  <li>🌍 E eu também gosto de ler e viajar.  </li>
   
 </ul>
 
